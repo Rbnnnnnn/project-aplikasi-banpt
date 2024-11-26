@@ -150,7 +150,7 @@ int main() {
     printf("\nSkor Kesesuaian Bidang Kerja: %.2f", hKelulusan);
     printf("\nSkor Kepuasan Pengguna: %.2f", hKepuasan);
     printf("\nSkor Publikasi Ilmiah Mahasiswa: %.2f", hPublikasiMag);
-    printf("\n========TERIMAKASIH SUDAH MENGGUNAKAN PROGRAM========");
+    printf("\n========TERIMAKASIH SUDAH MENGGUNAKAN PROGRAM INI========");
     printf("\n\t====SAMPAI JUMPA====");
 
     return 0;
